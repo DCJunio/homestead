@@ -1,0 +1,21 @@
+.hero {
+  display: -webkit-flex;
+  display: flex;
+  -webkit-align-items: center;
+  align-items: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  margin: 50px auto;
+}
+
+li {
+  margin: 1rem 0;
+}
+
+.iconContainer {
+  cursor: pointer;
+}
+
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
